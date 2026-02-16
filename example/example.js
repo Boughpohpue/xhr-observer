@@ -1,5 +1,5 @@
 import { Gimme } from 'https://boughpohpue.github.io/just.js/compiled/just.js-1.0.1.js';
-import RequestHandler from '../compiled/xhr_observer-1.0.1.js';
+import RequestHandler from '../content/request_handler.js';
 import ObservableRequest from './observable_request.js';
 
 
