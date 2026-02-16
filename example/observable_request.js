@@ -1,4 +1,4 @@
-import { Matcher } from '../content/.external/just.js-1.0.1.js';
+import { Matcher } from 'https://boughpohpue.github.io/just.js/compiled/just.js-1.0.1.js';
 
 export class ObservableRequest {
   static PostRequest1 = new ObservableRequest("*/v1/endpoint/post1", RequestMethod.POST);

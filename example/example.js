@@ -1,4 +1,4 @@
-import { Gimme } from '../content/.external/just.js-1.0.1.js';
+import { Gimme } from 'https://boughpohpue.github.io/just.js/compiled/just.js-1.0.1.js';
 import RequestHandler from '../content/request_handler.js';
 import ObservableRequest from './observable_request.js';
 

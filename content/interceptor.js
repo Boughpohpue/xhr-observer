@@ -1,4 +1,4 @@
-import { nameof, Is, Otis } from './.external/just.js-1.0.1.js';
+import { nameof, Is, Otis } from 'https://boughpohpue.github.io/just.js/compiled/just.js-1.0.1.js';
 
 export class Interceptor {
   static #open;
