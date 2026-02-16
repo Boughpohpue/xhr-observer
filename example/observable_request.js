@@ -55,3 +55,5 @@ export class ObservableRequest {
     return ObservableRequest.all.find(r => r.isMatching(url, method));
   }
 }
+
+export default ObservableRequest;
